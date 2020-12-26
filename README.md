@@ -1,4 +1,4 @@
-# Control
+### Automatic Control
 
 Some automatic control scripts.
 
